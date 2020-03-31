@@ -4,7 +4,7 @@
 Help us give you the thanks you deserve! Please ensure that all contributing members of the team are included!
 * Team Leader(s): Kai Williams
 * GitHub Scribe(s): [Collin Zimmerman](/collinzimmerman)
-* List of all Contributors: Evan Ponter, Reede Stockton, James Browne, Mel Brockley
+* List of all Contributors: Evan Ponter (/RealEvanPonter), Reede Stockton (/npsp-reedestockton), James Browne, Mel Brockley (/MellifluousBee), Chris Pifer (/selfuntitled)
 
 ### Project Vision (Your first task as a team)
 A schema for memberships, sponsorship, renewals, payments, multiple members, families, benefits, etc, that actually works. Eventually automation etc.

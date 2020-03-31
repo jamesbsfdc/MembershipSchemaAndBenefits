@@ -1,10 +1,10 @@
-### Membership Schema And Benefits
+### Membership Schema and Benefits (March 31, 2020)
 
 ### Project Team
 Help us give you the thanks you deserve! Please ensure that all contributing members of the team are included!
-* Team Leader(s): 
-* GitHub Scribe(s): [Thomas Taylor](/tet3) & [Duncan McGovern](/D-McGovern)
-* List of all Contributors: [Andrea Hanson](/andreahanson), Dean Graham, John Adams, Deepa Bedi, Shari Carlson Reily, [Michael Kolodner](/mkolodner), Brittany Neale, Amy Bucciferro
+* Team Leader(s): Kai Williams
+* GitHub Scribe(s): [Collin Zimmerman](/collinzimmerman)
+* List of all Contributors: Evan Ponter, Reede Stockton, James Browne, Mel Brockley
 
 ### Project Vision (Your first task as a team)
 A schema for memberships, sponsorship, renewals, payments, multiple members, families, benefits, etc, that actually works. Eventually automation etc.
